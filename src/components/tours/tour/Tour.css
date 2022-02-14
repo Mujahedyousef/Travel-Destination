@@ -1,0 +1,22 @@
+#div{
+    cursor: pointer;
+    width: 500px;
+    height:auto;
+    margin: 50px auto;
+    border-radius: 30px ;
+   
+}
+#image{
+    cursor: pointer;
+    border-radius: 30px;
+    width: 450px;
+    padding-bottom:30px ;
+}
+
+#name{
+    cursor: pointer;
+    border-radius: 30px;
+    padding-top:30px ;
+font-size: 30px;
+font-family: "sans-serif";
+}
