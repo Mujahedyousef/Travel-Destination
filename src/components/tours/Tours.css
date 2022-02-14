@@ -1,22 +1,11 @@
-#div{
+#tour{
     cursor: pointer;
     width: 500px;
     height:auto;
-    margin: 50px auto;
+    margin: 70px auto;
+    
+}
+#link{
     border-radius: 30px ;
-   
-}
-#image{
-    cursor: pointer;
-    border-radius: 30px;
-    width: 450px;
-    padding-bottom:30px ;
-}
-
-#text{
-    cursor: pointer;
-    border-radius: 30px;
-    padding-top:30px ;
-font-size: 30px;
-font-family: "sans-serif";
+    font-size: 25px;
 }
